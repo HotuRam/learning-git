@@ -1,3 +1,3 @@
 # learning-git
 
-this repos is addesd for learning perpose
+this repo. is added for learning perpose of git-hub
